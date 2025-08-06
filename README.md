@@ -1,4 +1,4 @@
-# Quant Interview Coding Questions
+# Continual Python Exercises
 
 | Repo Name              | Description                                     |
 |-----------------------|------------------------------------------------|
